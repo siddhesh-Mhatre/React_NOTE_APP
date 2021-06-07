@@ -11,3 +11,108 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  display: flex;
+    align-items: center;
+    padding: 10px;
+    background: darkgoldenrod;
+}
+
+.header h1{ 
+margin-left: 1rem;
+}
+
+.main_note{
+  /* height: 90vh; */
+}
+
+form{
+  position: relative;
+     display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    align-items: center;
+    margin: 0 auto;
+    width: 25%;
+    margin-top: 2.5rem;
+    box-shadow: -2px 4px 8px 0 #9e9e9e;
+    border: none;
+    border-radius: 8px;
+}
+form input{
+  display: inline-block;
+  width: 95%;
+  padding: 15px 1px;
+  border: none;
+  outline: none;
+  font-size: 18px;
+}
+
+form textarea{
+  margin: 0px;
+  width: 98%;
+  height: 94px;
+  border: none;
+  outline: none;
+  color: #b83490;
+  font-size: 16px;
+}
+
+.MuiButtonBase-root {
+  color: white !important;
+  background: #814cdff5 !important;
+  border-radius: 10px 20px !important;
+  position: absolute !important;
+  right: 0 !important;
+  bottom: -14px !important;
+}
+
+
+/* note */
+.note{
+  width: 18%;
+  box-shadow: -2px 4px 8px 0 #9e9e9e;
+  display: inline-block;
+  padding: 10px;
+  margin: 1rem;
+  display: inline-block;
+  position: relative;
+}
+.note h1{
+  margin: 0;
+}
+
+.note p{
+  margin: 0;
+  padding: 12px;
+}
+
+.deleteIcon{
+  width: 31px;
+}
+.btn{
+  background: #cddc39;
+    padding: 6px;
+    color: aliceblue !important;
+    border-radius: 15px;
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    border: none;
+    color: -internal-light-dark(black, white);
+
+}
+.btn:hover{
+  background-color: rgba(255, 0, 0, 0.74);
+}
+
+footer{
+  padding: 9px;
+  font-size: 18px;
+  background: antiquewhite;
+  text-align: center;
+  width: 98%;
+  bottom: 0;
+  margin-top: 26rem;
+}
