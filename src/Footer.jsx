@@ -9,7 +9,7 @@ const Footer=()=> {
   return (
 <>
 <footer>
-    <p>copyright © {year}</p>
+    <p>copy-right © {year}</p>
 </footer>
 </>
   );
