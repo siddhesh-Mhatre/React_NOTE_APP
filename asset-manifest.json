@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/React_web/static/css/main.74825305.chunk.css",
-    "main.js": "/React_web/static/js/main.792fb20d.chunk.js",
-    "main.js.map": "/React_web/static/js/main.792fb20d.chunk.js.map",
-    "runtime-main.js": "/React_web/static/js/runtime-main.ff04e851.js",
-    "runtime-main.js.map": "/React_web/static/js/runtime-main.ff04e851.js.map",
-    "static/js/2.31e3142f.chunk.js": "/React_web/static/js/2.31e3142f.chunk.js",
-    "static/js/2.31e3142f.chunk.js.map": "/React_web/static/js/2.31e3142f.chunk.js.map",
-    "static/js/3.6bbeb11e.chunk.js": "/React_web/static/js/3.6bbeb11e.chunk.js",
-    "static/js/3.6bbeb11e.chunk.js.map": "/React_web/static/js/3.6bbeb11e.chunk.js.map",
-    "index.html": "/React_web/index.html",
-    "static/css/main.74825305.chunk.css.map": "/React_web/static/css/main.74825305.chunk.css.map",
-    "static/js/2.31e3142f.chunk.js.LICENSE.txt": "/React_web/static/js/2.31e3142f.chunk.js.LICENSE.txt",
-    "static/media/logo.890716d5.jpg": "/React_web/static/media/logo.890716d5.jpg"
+    "main.css": "/React_NOTE_APP/static/css/main.74825305.chunk.css",
+    "main.js": "/React_NOTE_APP/static/js/main.792fb20d.chunk.js",
+    "main.js.map": "/React_NOTE_APP/static/js/main.792fb20d.chunk.js.map",
+    "runtime-main.js": "/React_NOTE_APP/static/js/runtime-main.29f660fa.js",
+    "runtime-main.js.map": "/React_NOTE_APP/static/js/runtime-main.29f660fa.js.map",
+    "static/js/2.31e3142f.chunk.js": "/React_NOTE_APP/static/js/2.31e3142f.chunk.js",
+    "static/js/2.31e3142f.chunk.js.map": "/React_NOTE_APP/static/js/2.31e3142f.chunk.js.map",
+    "static/js/3.6bbeb11e.chunk.js": "/React_NOTE_APP/static/js/3.6bbeb11e.chunk.js",
+    "static/js/3.6bbeb11e.chunk.js.map": "/React_NOTE_APP/static/js/3.6bbeb11e.chunk.js.map",
+    "index.html": "/React_NOTE_APP/index.html",
+    "static/css/main.74825305.chunk.css.map": "/React_NOTE_APP/static/css/main.74825305.chunk.css.map",
+    "static/js/2.31e3142f.chunk.js.LICENSE.txt": "/React_NOTE_APP/static/js/2.31e3142f.chunk.js.LICENSE.txt",
+    "static/media/logo.890716d5.jpg": "/React_NOTE_APP/static/media/logo.890716d5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff04e851.js",
+    "static/js/runtime-main.29f660fa.js",
     "static/js/2.31e3142f.chunk.js",
     "static/css/main.74825305.chunk.css",
     "static/js/main.792fb20d.chunk.js"
